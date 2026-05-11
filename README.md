@@ -1,7 +1,7 @@
 # ProyectoLumi3D
 Proyecto con gestion de colas y base de datos con arbol b+ 
 ═══════════════════════════════════════════════════════════════
-  LUMI 3D - SISTEMA DE COLAS - PC1
+  LUMI 3D - SISTEMA DE COLAS - PC1 - PC2 - PC3 - PC4 - PC5
 ═══════════════════════════════════════════════════════════════
 
 ARCHIVOS:
